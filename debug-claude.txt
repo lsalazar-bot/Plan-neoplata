@@ -1,0 +1,1 @@
+tr=[hola] c=[hola] types=[text] stop=[end_turn] out=[4]
